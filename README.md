@@ -6,7 +6,7 @@ DURATION- 15 JUNE TO 5 AUGUST 2024
 MENTOR-NEELA SANTHOSH KUMAR 
 
 OVERVIEW OF THE PROJECT
-PROJECT- RESTFULL API
+PROJECT- RESTFUL API
 Objective-A RESTful API (Representational State Transfer API) is a way for web services to communicate with each other using the HTTP protocol. It follows a set of principles and constraints to provide a lightweight, maintainable, and scalable way to build web services. Here’s a simple overview:
 
 Key Concepts
